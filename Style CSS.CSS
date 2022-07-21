@@ -1,0 +1,140 @@
+/* Create your test CSS here */
+
+
+.header {
+	background-color: white;
+	padding: 20px;
+	margin: 10px;
+	font-size: 18px;
+	font-family: "Noto Sans", sans-serif;
+	display: flex; 
+	float: left;
+
+}
+
+
+ul {
+	list-style-type: none;
+	margin: 20px;
+	padding: 40px 32px;
+	font-size: 22px;
+	font-family: Georgia, serif;
+	display: inline-flex;
+
+}
+.yes {
+	display: flex;
+	margin: 0px 0px 0px 150px;
+	float: left;
+	display: inline-block;
+
+}
+
+
+
+
+li {
+	float: left;
+	display: flex;
+	border: none;
+	padding: 10px 15px;
+	margin: 0px;
+	font-size: 22px;
+	text-decoration: none;
+
+}
+
+.active {background: yellow;
+  float: left;
+  display: flex;
+  font-family: Georgia, serif;
+  font-size: 18px;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  padding: 0px 5px;
+  border: none;
+
+
+}
+
+li a {
+	display: inline-block;
+	color: black;
+	text-align: center;
+	padding: 0px 30px;
+	text-decoration: none;
+	font-size: 20px;
+
+}
+.von {
+	font-family: Helvetica, sans-serif;
+   font-size: 33px;
+   margin-left: 40px;
+   margin-top: 150px;
+
+
+ 
+}
+.square {
+	width: 90%;
+	height: 400px;
+	background-color: lightblue;
+	padding: 250px 0px 100px 0px;
+	margin: -250px 0px 0px 160px;
+	
+    
+
+}
+.search-box {
+	position: absolute;
+	top: 60%;
+	height: 20px;
+	transform: translate(0%, 90%);
+	width: 300px;
+	padding: 20px;
+	
+
+}
+
+.search-txt {
+	border: none;
+	background-color: white;
+	outline: none;
+	float: left;
+	padding: 15px;
+	color; white;
+	font-size: 18px;
+	line-height: 30px;
+	font-weight: bold;
+	width: 700px;
+}
+.searchButton {
+	width: 85px;
+	height: 61px;
+	background: yellow;
+	color: black;
+	position: absolute;
+	font-size: 22px;
+	cursor: pointer;
+	text-align: center;
+	background-color: yellow;
+	font-family: "Noto Sans", sans-serif;
+	margin:0px 2px 
+	border; none;
+	border-radius: 0px 10px 10px 0px;
+
+}
+.square_ni {
+	width: 500px;
+	height: 70px;
+	background-color: yellow;
+	float: right;
+	text-align: center;
+    line-height: 70px;
+    padding: 0px 40px 0px 40px;
+    margin: -73px 30px;
+    font-size: 22px;
+
+
+}
